@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scotp71
 - 👀 I’m interested in tech in general, learning all I can on cybersecurity, pentesting, coding, etc.
 - 🌱 I’m currently learning CTF challenges, cloud security, etc.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on atomics.
 - 📫 How to reach me scotp71@gmail.com
 
 <!---
